@@ -1,6 +1,3 @@
-Đây là danh sách các thư viện cần thiết để chạy đồ án theo yêu cầu kỹ thuật của đề bài:
-
-text
 numpy
 pandas
 matplotlib
