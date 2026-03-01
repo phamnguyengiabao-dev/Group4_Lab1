@@ -16,7 +16,7 @@
 - **Mô tả ngắn:** Chứa thông tin các giao dịch thẻ tín dụng nhằm phát hiện gian lận. Dữ liệu gồm 284,807 bản ghi với 30 thuộc tính số (đã qua xử lý PCA) và nhãn Class.
 
 ### 2.3. Dữ liệu [Textual/Temporal] (Phần Bonus) 
-- **Tên tập dữ liệu:** [IMDB Dataset of 50K Movie Reviews].
+- **Tên tập dữ liệu:** [IMDB Dataset of 50K Movie Reviews](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)
 - **Mô tả ngắn:** [Dataset gồm 50,000 đánh giá phim được thu thập từ IMDB và được gán nhãn cảm xúc positive hoặc negative.Tập dữ liệu có phân bố nhãn cân bằng (25,000 positive và 25,000 negative)].
 
 ## 3. Hướng dẫn chạy các Notebook 
