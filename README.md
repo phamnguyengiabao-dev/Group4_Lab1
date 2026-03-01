@@ -3,8 +3,7 @@
 ## 1. Thông tin thành viên và MSSV 
 - **Trần Quang Đạo** - [21127498] - Dữ liệu tabular (Trưởng nhóm)
 - **Phạm Nguyễn Gia Bảo** - [20127119] - Dữ liệu hình ảnh (Image data)
-- **[Họ và tên thành viên 3]** - [MSSV]
-- **[Họ và tên thành viên 4]** - [MSSV]
+- **Lê Nguyễn Chí Hiếu** - [20127157] - Dữ liệu text (Text Preprocessing)
 
 ## 2. Mô tả các tập dữ liệu đã sử dụng 
 
@@ -17,8 +16,8 @@
 - **Mô tả ngắn:** Chứa thông tin các giao dịch thẻ tín dụng nhằm phát hiện gian lận. Dữ liệu gồm 284,807 bản ghi với 30 thuộc tính số (đã qua xử lý PCA) và nhãn Class.
 
 ### 2.3. Dữ liệu [Textual/Temporal] (Phần Bonus) 
-- **Tên tập dữ liệu:** [Điền tên dataset bạn đã chọn cho Part 3 hoặc Part 4].
-- **Mô tả ngắn:** [Mô tả ngắn gọn về đặc điểm dữ liệu].
+- **Tên tập dữ liệu:** [IMDB Dataset of 50K Movie Reviews].
+- **Mô tả ngắn:** [Dataset gồm 50,000 đánh giá phim được thu thập từ IMDB và được gán nhãn cảm xúc positive hoặc negative.Tập dữ liệu có phân bố nhãn cân bằng (25,000 positive và 25,000 negative)].
 
 ## 3. Hướng dẫn chạy các Notebook 
 
