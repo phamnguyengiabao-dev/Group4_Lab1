@@ -1,7 +1,7 @@
-# ĐỒ ÁN 1: TIỀN XỬ LÝ DỮ LIỆU - NHÓM [Điền Group_ID của bạn]
+# ĐỒ ÁN 1: TIỀN XỬ LÝ DỮ LIỆU - NHÓM 04
 
 ## 1. Thông tin thành viên và MSSV 
-- **Trần Quang Đạo** - [21127498] (Trưởng nhóm)
+- **Trần Quang Đạo** - [21127498] - Dữ liệu tabular (Trưởng nhóm)
 - **Phạm Nguyễn Gia Bảo** - [20127119] - Dữ liệu hình ảnh (Image data)
 - **[Họ và tên thành viên 3]** - [MSSV]
 - **[Họ và tên thành viên 4]** - [MSSV]
@@ -35,3 +35,5 @@
 **Tabular dataset link:** https://drive.google.com/file/d/1birhslq88-6l_L-A3I4eQA2Ht4ApbYnp/view?usp=sharing
 
 **Text dataset link:** https://drive.google.com/file/d/1NDFNPsFLPmXVPkIYLtcORUcOAqerLPPP/view?usp=sharing
+
+**Imange dataset link:** https://drive.google.com/file/d/1rJ25_o8uRaKpVJrWKZwGWpnotGyMVidG/view?usp=sharing
