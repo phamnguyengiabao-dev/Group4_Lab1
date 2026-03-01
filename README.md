@@ -6,7 +6,7 @@
 - **[Họ và tên thành viên 3]** - [MSSV]
 - **[Họ và tên thành viên 4]** - [MSSV]
 
-2. Mô tả các tập dữ liệu đã sử dụng 
+## 2. Mô tả các tập dữ liệu đã sử dụng 
 
 ### 2.1. Dữ liệu Hình ảnh (Image Data) 
 - **Tên tập dữ liệu:** CIFAR-10
