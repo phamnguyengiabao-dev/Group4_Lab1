@@ -2,14 +2,14 @@
 
 ## 1. Thông tin thành viên và MSSV 
 - **Trần Quang Đạo** - [21127498] (Trưởng nhóm)
-- **[Họ và tên thành viên 2]** - [MSSV]
+- **Phạm Nguyễn Gia Bảo** - [20127119] - Dữ liệu hình ảnh (Image data)
 - **[Họ và tên thành viên 3]** - [MSSV]
 - **[Họ và tên thành viên 4]** - [MSSV]
 
 2. Mô tả các tập dữ liệu đã sử dụng 
 
 ### 2.1. Dữ liệu Hình ảnh (Image Data) 
-- **Tên tập dữ liệu:** [Ví dụ: CIFAR-10 / Fashion-MNIST]
+- **Tên tập dữ liệu:** CIFAR-10
 - **Mô tả ngắn:** Tập dữ liệu dùng để thực hiện các kỹ thuật như thay đổi kích thước, chuyển đổi ảnh xám, chuẩn hóa và dò biên.
 
 ### 2.2. Dữ liệu Bảng (Tabular Data) 

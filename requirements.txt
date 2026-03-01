@@ -8,3 +8,5 @@ Pillow
 nltk
 spacy
 jupyter
+tensorflow
+keras
