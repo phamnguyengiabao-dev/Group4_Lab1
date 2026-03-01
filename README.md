@@ -35,4 +35,5 @@
 
 **Text dataset link:** https://drive.google.com/file/d/1NDFNPsFLPmXVPkIYLtcORUcOAqerLPPP/view?usp=sharing
 
-**Imange dataset link:** https://drive.google.com/file/d/1rJ25_o8uRaKpVJrWKZwGWpnotGyMVidG/view?usp=sharing
+**Image dataset link:** https://drive.google.com/file/d/1rJ25_o8uRaKpVJrWKZwGWpnotGyMVidG/view?usp=sharing
+
